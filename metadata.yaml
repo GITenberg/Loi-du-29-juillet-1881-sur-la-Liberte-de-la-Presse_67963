@@ -1,0 +1,30 @@
+_repo: Loi-du-29-juillet-1881-sur-la-Liberte-de-la-Presse_67963
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Ferry, Jules
+    gutenberg_agent_id: '54555'
+    url: http://www.gutenberg.org/2009/agents/54555
+  - agent_name: Grévy, Jules
+    gutenberg_agent_id: '54554'
+    url: http://www.gutenberg.org/2009/agents/54554
+description: ''
+gutenberg_issued: '2022-05-01'
+identifiers:
+  gutenberg: '67963'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k214111r/f153.item
+pgterms:marc905: 20220415144752ferry
+pgterms:marc906: '1882'
+pgterms:marc907: FR
+production_note: Claudine Corbasson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: France :Imrimerie Nationale,1882.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Loi du 29 juillet 1881 sur la Liberté de la Presse
+url: http://www.gutenberg.org/ebooks/67963
