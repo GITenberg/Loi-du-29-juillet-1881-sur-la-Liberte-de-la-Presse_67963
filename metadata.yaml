@@ -1,5 +1,8 @@
 _repo: Loi-du-29-juillet-1881-sur-la-Liberte-de-la-Presse_67963
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67963-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Ferry, Jules
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '54554'
     url: http://www.gutenberg.org/2009/agents/54554
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67963#Loi-du-29-juillet-1881-sur-la-Liberte-de-la-Presse
 gutenberg_issued: '2022-05-01'
 identifiers:
   gutenberg: '67963'
